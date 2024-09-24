@@ -20,7 +20,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'url': 'https://www.indeed.com/companies?from=gnav-homepage'
 }
 
