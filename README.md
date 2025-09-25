@@ -44,8 +44,8 @@ Find code examples for other programming languages [**here**](https://github.com
   "results": [
     {
       "content": "<!DOCTYPE html><html lang=\"en\" dir=\"ltr\"><head><meta charSet=\"utf-8\"/><link rel=\"preconnect\" href=\"h ... </html>",
-      "created_at": "2024-01-10 09:35:33",
-      "updated_at": "2024-01-10 09:35:35",
+      "created_at": "2025-01-10 09:35:33",
+      "updated_at": "2025-01-10 09:35:35",
       "page": 1,
       "url": "https://www.indeed.com/companies?from=gnav-homepage",
       "job_id": "7150782209677353986",
