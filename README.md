@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Indeed Scraper, you can seamlessly extract public data from any Indeed web page. Gather crucial job-related information such as job titles, companies, salaries, or job descriptions, to analyze the job market trends and stay ahead of your competitors. If you have any inquiries, feel free to reach our support team via live chat or email us at hello@oxylabs.io.
+With our Indeed Scraper, you can seamlessly extract public data from any Indeed web page. Gather crucial job-related information such as job titles, companies, salaries, or job descriptions, to analyze the job market trends and stay ahead of your competitors. If you have any inquiries, feel free to reach our support team via live chat or email us at support@oxylabs.io.
